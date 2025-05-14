@@ -16,9 +16,3 @@
 ### Установка (для пользователей)
 1. Скачайте последнюю версию APK из [Releases](https://github.com/your-username/TIS-AR-Scanner/releases)
 2. Установите на Android-устройство
-
-### Для разработчиков
-```bash
-git clone https://github.com/your-username/TIS-AR-Scanner.git
-cd TIS-AR-Scanner
-flutter pub get  # если используется Flutter
